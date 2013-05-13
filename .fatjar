@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Mon Apr 01 10:12:33 CST 2013
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=fastaeditor_fat.jar
+manifest.mergeall=true
+manifest.mainclass=FastaFrame
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
